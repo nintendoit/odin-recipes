@@ -1,11 +1,11 @@
-##Project:Recipes
+## Project:Recipes
 
-###Introduction
+### Introduction
 This project is intended to be the first project created under the
 odin project.It describes the different recipes to produce different
 food products.
 
-###What skills will I learn?
+### What skills will I learn?
 -HTML
 -CSS
 -JS
