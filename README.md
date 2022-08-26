@@ -6,8 +6,8 @@ odin project.It describes the different recipes to produce different
 food products.
 
 ### What skills will I learn?
--HTML
--CSS
--JS
--Git and github(_If not, what am I doing here?_)
--Anything additional along the way
+*HTML
+*CSS
+*JS
+*Git and github(_If not, what am I doing here?_)
+*Anything additional along the way
