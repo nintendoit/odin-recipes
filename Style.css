@@ -1,0 +1,17 @@
+body {
+    background-color: #f5f5dc;
+    color: #112A46;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial ;
+}
+
+a:any-link {
+    color: #166506;
+}
+
+li {
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial ;
+}
