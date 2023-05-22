@@ -1,14 +1,69 @@
 body {
-    background-color: #f5f5dc;
-    color: #112A46;
+    margin: 0;
+    padding: 0;
+}
+.whole {
+    height: 100vh;
+    width: 100vw;
+    background-color: #95E1D3;
 }
 
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    border: 8px solid #F5CB5C;
+    border-radius: 12px;
+    width: 30vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.text-in-blur {
+    background-color: rgb(255 255 255 / 0.3);
+    backdrop-filter: blur(10px);
+}
+
+#chennapoda {
+    background-image: url(../img/chennapoda-front.webp);
+    background-color: rgba(219, 80, 74, 0.7);
+    background-blend-mode: screen;
+}
+
+#podapitha {
+    background-image: url(../img/podapitha-front.jpg);
+    background-color: rgba(227, 181, 5, 0.7);
+    background-blend-mode: screen;
+}
+
+#rasabali {
+    background-image: url(../img/rasabali-front.jpg);
+    background-color: rgba(39, 93, 173, 0.7);
+    background-blend-mode: screen;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
 }
 
-a:any-link {
-    color: #166506;
+a {
+    text-decoration: none;
+    color: black;
 }
 
 li {
